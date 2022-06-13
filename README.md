@@ -1,0 +1,4 @@
+# letschat-stream
+Realtime chat app built with React.js, Node.js, Express.js, and Getstream.io 
+
+Signup and begin chatting. :)
